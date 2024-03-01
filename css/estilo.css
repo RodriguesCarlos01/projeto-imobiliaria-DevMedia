@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    font-family: "Tahoma";
+    
+}
+
+div{
+    text-align: center;
+    padding: 30px 0;
+}
+
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.cabecalho{
+    background-color: #afddfb;
+}
+
+.cabecalho img{
+    width: 150px;
+}
+
+.cabecalho p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.cabecalho-link{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+    
+}
+
+.logo{
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.destaque-azul{
+    font-weight: bold;
+    color: #1d80c1;
+}
+
+.titulo-sobre{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.subtitulo-sobre{
+    color: #1c81c0;
+    font-weight: lighter;
+    margin-top: 0;
+}
+
+.imagem-sobre{
+    width: 450px;
+}
+.servicos{
+    background-color: #1d80c1;
+}
+
+.subtitulo-geral{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.destaque-amarelo{
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.lista-servico{
+    width: 135px;
+    margin: 40px auto;
+}
+
+.lista-servico li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.subtitulo-corretores{
+    font-size: 28px;
+    line-height: 42px;
+    color: #1c81c0;
+    margin: 0;
+}
+
+.contato{
+    background-color: #1d80c1;
+}
+
+.contato p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.destaque-corretores{
+    text-decoration: none;
+    background-color: #1c81c0;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px ;
+    
+}
+
+.lista-contato li {
+    margin: 40px auto;
+    width: 210px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 16px;
+    list-style: none;
+}
+
+li a{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
