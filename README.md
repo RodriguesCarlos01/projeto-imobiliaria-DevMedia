@@ -26,4 +26,12 @@ Se você deseja contribuir com melhorias ou correções para o projeto, sinta-se
 
 ## Layout
   
-![head](https://github.com/RodriguesCarlos01/projeto-imobiliaria-DevMedia/assets/117989845/a2931f6c-a136-4f5a-9cef-5c16fa970db9)
+<img src="assets/1.png" width="600" height="300"  alt="imagem uma casa" />
+
+<img src="assets/2.png" width="600" height="300"  alt="imagem contratos e uma casa" />
+
+<img src="assets/3.png" width="600" height="300"  alt=" seriços do site" />
+
+<img src="assets/4.png" width="600" height="300"  alt="sobre os corretores" />
+
+<img src="assets/5.png" width="600" height="300"  alt="contatos e mapa com a localidades da imobiliaria" />
