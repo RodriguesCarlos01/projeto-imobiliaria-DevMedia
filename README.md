@@ -19,6 +19,7 @@ Este é um projeto desenvolvido como parte do curso de __Desenvolvimento Web__. 
 - __index.html__: Página principal da imobiliária.
 - __css/__: Pasta contendo os arquivos CSS.
 - __img/__: Pasta para armazenar imagens relacionadas à imobiliária.
+- __img.assets/__: Pasta contendo fotos do site
 - __readme.MD__: Este arquivo README.
 
 ## Como Contribuir
